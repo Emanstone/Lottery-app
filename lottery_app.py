@@ -24,6 +24,8 @@ if int(user_num) > 5:
 
  # Printing the user's input   
 print("Your chosen number is:", user_num)
+print("winning number is:", 3)
+print("Random generated number is:", randnum)
 
 # Checking if the user won
 if winning_number == user_num == randnum:
